@@ -40,7 +40,7 @@ public interface Mac
         throws IllegalStateException;
 
     /**
-     * @param in the array containing the input.
+     * @param in the array containing the input. ‰»Î ˝æ›
      * @param inOff the index in the array the data begins at.
      * @param len the length of the input starting at inOff.
      * @exception IllegalStateException if the MAC is not initialised.
